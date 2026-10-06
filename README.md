@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Every+day+that+passes,+I+sharpen+my+mind—seeking+new+truths,+leaving+none+behind.)](https://git.io/typing-svg)
 
 <!--
 **Mr-Warrior-33/Mr-Warrior-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
